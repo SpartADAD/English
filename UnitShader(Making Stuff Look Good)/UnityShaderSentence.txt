@@ -1,0 +1,11 @@
+Shader 101
+Here we have four basic quads each of the different shader applied to them 
+I'm working on a 2d perspective here because that's 
+the dimension I typically work in but a lot of what I talk about it's going to be  
+relevant in 3d as well especially if you get into image effects down the road.
+
+Incoming hand-wavey explanation of how computer graphics work
+
+simplify the rendering process quite a bit here 
+
+regurgitating everything I've ever learned in books in school about graphics traditionally
